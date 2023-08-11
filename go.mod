@@ -10,8 +10,8 @@ require (
 	github.com/suborbital/grav v0.4.1
 	github.com/suborbital/vektor v0.5.1-0.20211112160641-0b7e68b46795
 	github.com/wasmerio/wasmer-go v1.0.4
-	golang.org/x/crypto v0.0.0-20211108221036-ceb1ce70b4fa
-	golang.org/x/net v0.0.0-20211111160137-58aab5ef257a // indirect
+	golang.org/x/crypto v0.1.0
+	golang.org/x/net v0.1.0 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 )
 
@@ -34,8 +34,8 @@ require (
 	github.com/jackc/pgtype v1.8.1 // indirect
 	github.com/julienschmidt/httprouter v1.3.0 // indirect
 	github.com/sethvargo/go-envconfig v0.4.0 // indirect
-	golang.org/x/mod v0.4.2 // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
+	golang.org/x/text v0.4.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
 
